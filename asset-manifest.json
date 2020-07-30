@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactCovidAPI/static/css/main.9fefcbd1.chunk.css",
+    "main.js": "/ReactCovidAPI/static/js/main.a04ad66f.chunk.js",
+    "main.js.map": "/ReactCovidAPI/static/js/main.a04ad66f.chunk.js.map",
+    "runtime-main.js": "/ReactCovidAPI/static/js/runtime-main.09c2885e.js",
+    "runtime-main.js.map": "/ReactCovidAPI/static/js/runtime-main.09c2885e.js.map",
+    "static/js/2.e3f179de.chunk.js": "/ReactCovidAPI/static/js/2.e3f179de.chunk.js",
+    "static/js/2.e3f179de.chunk.js.map": "/ReactCovidAPI/static/js/2.e3f179de.chunk.js.map",
+    "index.html": "/ReactCovidAPI/index.html",
+    "precache-manifest.ab14505124716ceb1e92663eef982138.js": "/ReactCovidAPI/precache-manifest.ab14505124716ceb1e92663eef982138.js",
+    "service-worker.js": "/ReactCovidAPI/service-worker.js",
+    "static/css/main.9fefcbd1.chunk.css.map": "/ReactCovidAPI/static/css/main.9fefcbd1.chunk.css.map",
+    "static/js/2.e3f179de.chunk.js.LICENSE.txt": "/ReactCovidAPI/static/js/2.e3f179de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c2885e.js",
+    "static/js/2.e3f179de.chunk.js",
+    "static/css/main.9fefcbd1.chunk.css",
+    "static/js/main.a04ad66f.chunk.js"
+  ]
+}
